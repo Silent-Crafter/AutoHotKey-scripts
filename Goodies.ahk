@@ -18,11 +18,11 @@ return
 Run www.steamunlocked.net
 return
 
-^+!x::
+^+x::
 Run shutdown /r /t 1
 return
 
-^+!z::
+^+z::
 Run shutdown /s /t 1
 return
 
